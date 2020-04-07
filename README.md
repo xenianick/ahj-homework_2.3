@@ -3,3 +3,4 @@
 
 ## Site
 [Tap me](https://xenianick.github.io/ahj-homework_2.3)
+(сортировка по клику)
